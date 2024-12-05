@@ -48,8 +48,8 @@ Attributes:
 5. grade: Grade assigned based on percentage.
 
 Methods:
-getdata(): Accepts student data input from the user.
-showdata(): Displays a student's full details.
-show_tabular(): Displays data in tabular format.
-retrollno(): Returns the roll number of the student.
-calculate(): Calculates the percentage and grade.
+1. getdata(): Accepts student data input from the user.
+2. showdata(): Displays a student's full details.
+3. show_tabular(): Displays data in tabular format.
+4. retrollno(): Returns the roll number of the student.
+5. calculate(): Calculates the percentage and grade.
